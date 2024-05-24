@@ -1,4 +1,4 @@
 # campus.hangu
-this is my first Get Repository
+this is my first Git Repository
 <br>
 <p> Here is osama<p>
